@@ -1,3 +1,6 @@
+Connect to database
+Connect to Active MQ
+
 Part 1
 ------------------------------------------------------
 The program reads data from a csv file and either sends the results to an Active MQ queue or to a database
